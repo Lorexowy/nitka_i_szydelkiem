@@ -2089,7 +2089,7 @@ input, select, textarea {
 	#header-wrapper {
 		position: relative;
 		padding: 4em 0 2em 0;
-		background-image: url('/images/banner.jpg');
+		background-image: url("images/banner.jpg");
 		background-color: #1696ff;
 		background-size: cover;
 		background-position: center;
